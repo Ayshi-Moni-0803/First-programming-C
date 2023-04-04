@@ -1,25 +1,27 @@
-#include<stdio.h>
-int main()
-{
-    int tk;
-    scanf("%d",&tk);
-    if(tk >= 5000)
-    {
-        printf("Cox's-Bazar jabo\n");
-        if(tk >= 10000)
-        {
-            printf("saint-martin jabo\n");
-        }
-        else
-        {
-            printf("cox's-bazar teke ferot sole jabo\n");
-        }
-    }
-   else{
-    printf("kotaw jabona\n");
-   }
-    return 0;
-}
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk >= 5000)
+//     {
+//         printf("Cox's-Bazar jabo\n");
+//         if(tk >= 10000)
+//         {
+//             printf("saint-martin jabo\n");
+//         }
+//         else
+//         {
+//             printf("cox's-bazar teke ferot sole jabo\n");
+//         }
+//     }
+//    else{
+//     printf("kotaw jabona\n");
+//    }
+//     return 0;
+// }
 
     // printf("hlw world\n");
     // printf("I am Ayshi Moni\n");
@@ -206,5 +208,31 @@ int main()
 //     else{
 //         printf("sharadin kisu kabona");
 //     }
+//     return 0;
+// }
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk >= 5000)
+//     {
+//         printf("Cox's-Bazar jabo\n");
+//         if(tk >= 10000)
+//         {
+//             printf("saint-martin jabo\n");
+//         }
+//         else
+//         {
+//             printf("cox's-bazar teke ferot sole jabo\n");
+//         }
+//     }
+//    else{
+//     printf("kotaw jabona\n");
+//    }
 //     return 0;
 // }
