@@ -1,10 +1,25 @@
 #include<stdio.h>
 int main()
 {
-    
+    int tk;
+    scanf("%d",&tk);
+    if(tk >= 5000)
+    {
+        printf("Cox's-Bazar jabo\n");
+        if(tk >= 10000)
+        {
+            printf("saint-martin jabo\n");
+        }
+        else
+        {
+            printf("cox's-bazar teke ferot sole jabo\n");
+        }
+    }
+   else{
+    printf("kotaw jabona\n");
+   }
     return 0;
 }
-
 
     // printf("hlw world\n");
     // printf("I am Ayshi Moni\n");
@@ -86,5 +101,110 @@ int main()
 //     int a=260,b=50;
 //     float dvd=a*1.0/b;
 //     printf("%f",dvd);
+//     return 0;
+// }
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a=3,b=20;
+//     int mod=a%b;
+//     printf("%d",mod);
+//     return 0;
+// }
+
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk == 100)
+//     {
+//         printf("Burger kabo");
+//     }
+//     else{
+//         printf("sharadin kisu kabona");
+//     }
+//     return 0;
+// }
+
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk >= 100)
+//     {
+//         printf("Burger kabo");
+//     }
+//     else{
+//         printf("sharadin kisu kabona");
+//     }
+//     return 0;
+// }
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk <= 100)
+//     {
+//         printf("Burger kabo");
+//     }
+//     else{
+//         printf("sharadin kisu kabona");
+//     }
+//     return 0;
+// }
+
+
+
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int tk;
+//     scanf("%d",&tk);
+//     if(tk >= 100)
+//     {
+//         printf("Burger kabo");
+//     }
+//     else if (tk >=50)
+//     {
+//         printf("fuska kabo");
+//     }
+//     else if (tk >=30)
+//     {
+//         printf("ice cream kabo");
+    
+//     }
+
+//     else if (tk >=20)
+//     {
+//         printf("jalmuri kabo");
+//     }
+//     else{
+//         printf("sharadin kisu kabona");
+//     }
 //     return 0;
 // }
