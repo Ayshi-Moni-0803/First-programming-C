@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    int a=1000000000;
-    long long int b=100000000000;
-    printf("%lld",b);
+    
     return 0;
 }
+
 
     // printf("hlw world\n");
     // printf("I am Ayshi Moni\n");
@@ -48,5 +47,44 @@ int main()
     
 //     scanf("%d%% %d%%", &a,&b);
 //     printf("%d%% %d%%",a,b);
+//     return 0;
+// }
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a=1000000000;
+//     long long int b=100000000000;
+//     printf("%lld",b);
+//     return 0;
+// }
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a=50,b=40;
+//     int mns=a-b;
+//     printf("%d",mns);
+//     return 0;
+// }
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a=260,b=50;
+//     float dvd=a*1.0/b;
+//     printf("%f",dvd);
 //     return 0;
 // }
